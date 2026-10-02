@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+models/
+chroma_store/
+
+.env
+.env.*
+*.key
+
+data/_current_upload.csv

@@ -1,0 +1,15 @@
+AdvisorIQ Transaction Checker Evaluation
+
+Precision:
+Recall:
+F1-score:
+ROC-AUC:
+
+Model:
+RandomForestClassifier
+
+Features:
+amount
+hour
+is_foreign
+merchant_risk

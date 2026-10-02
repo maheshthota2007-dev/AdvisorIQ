@@ -1,0 +1,10 @@
+gradio
+pandas
+joblib
+scikit-learn
+yfinance
+langchain
+langchain-core
+langchain-google-genai
+langchain-chroma
+chromadb
